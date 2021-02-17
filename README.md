@@ -3,14 +3,14 @@
 
 下面是项目运行截图：
 
-##登录
-[!image](https://github.com/cuishuang1117/shop-server/blob/main/images/1.png)
+## 登录
+![image](https://github.com/cuishuang1117/shop-server/blob/main/images/1.png)
 
-##看板
-[!image](https://github.com/cuishuang1117/shop-server/blob/main/images/2.png)
+## 看板
+![image](https://github.com/cuishuang1117/shop-server/blob/main/images/2.png)
 
-##商品管理
-[!image](https://github.com/cuishuang1117/shop-server/blob/main/images/3.png)
+## 商品管理
+![image](https://github.com/cuishuang1117/shop-server/blob/main/images/3.png)
 
-##通知中心
-[!image](https://github.com/cuishuang1117/shop-server/blob/main/images/4.png)
+## 通知中心
+![image](https://github.com/cuishuang1117/shop-server/blob/main/images/4.png)
